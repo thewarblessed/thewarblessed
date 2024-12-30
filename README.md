@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Dominic Acuisa</h1>
+<h1 align="center">Hi 👋, I'm John Dominic</h1>
 <h3 align="center">A passionate Web developer from the Philippines</h3>
 
 - 🔭 I’m currently working on [Calendash](https://calendash.online/)
